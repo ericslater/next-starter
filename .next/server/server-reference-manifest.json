@@ -1,5 +1,1 @@
-{
-  "node": {},
-  "edge": {},
-  "encryptionKey": "EgId1S42/DkSaLuFCEn7MO92v2fv6udPmuWRrArxQuE="
-}
+{"node":{"37e710dec1981400f44e23a8940edc9045e993fd":{"workers":{"app/dashboard/invoices/page":"8954","app/dashboard/invoices/create/page":"2247"},"layer":{"app/dashboard/invoices/page":"rsc","app/dashboard/invoices/create/page":"action-browser"}},"5bdcd98b2251f33be0b51209fcd45c85c7c3d9fd":{"workers":{"app/dashboard/invoices/page":"8954","app/dashboard/invoices/create/page":"2247"},"layer":{"app/dashboard/invoices/page":"rsc","app/dashboard/invoices/create/page":"action-browser"}},"c021f76ddac0944292e0d3048c4453e7daad3f5a":{"workers":{"app/dashboard/invoices/page":"8954","app/dashboard/invoices/create/page":"2247"},"layer":{"app/dashboard/invoices/page":"rsc","app/dashboard/invoices/create/page":"action-browser"}}},"edge":{},"encryptionKey":"vu8XQzJnbIBkggKdmQCxPRXtMTAd0vkVZG4i+1NReUw="}
